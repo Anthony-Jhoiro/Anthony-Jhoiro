@@ -12,7 +12,7 @@
 <!-- Job -->
 <p>
   <a href="https://www.davidson.fr"><img src="https://www.davidson.fr/favicon/favicon-16x16.png" alt="Davidson Logo" /></a>
-  Developper at <a href="https://www.davidson.fr">Davidson SI Nord</a>
+  Technical Leader at <a href="https://www.davidson.fr">Davidson SI Nord</a>
 </p>
 <!-- Dev Card -->
 <a href="https://app.daily.dev/Anthony_Jhoiro">
