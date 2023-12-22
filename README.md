@@ -11,8 +11,8 @@
 
 <!-- Job -->
 <p>
-  <a href="https://www.davidson.fr"><img src="https://www.davidson.fr/favicon/favicon-16x16.png" alt="Davidson Logo" /></a>
-  Technical Leader at <a href="https://www.davidson.fr">Davidson SI Nord</a>
+  <a href="[https://www.davidson.fr](https://github.com/selflow/selflow)"><img src="https://selflow.github.io/selflow/img/favicon.ico" alt="Davidson Logo" /></a>
+  Open Source developper, currently working on <a href="https://github.com/selflow/selflow">Selflow</a>
 </p>
 <!-- Dev Card -->
 <a href="https://app.daily.dev/Anthony_Jhoiro">
