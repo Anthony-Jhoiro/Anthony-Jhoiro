@@ -35,3 +35,7 @@
 ## Public contributions
 
 ![Metrics](./github-metrics.svg)
+
+---
+
+*JetBrains OSS development license request ID: 27122023/13367149*
