@@ -23,14 +23,6 @@
   <a href="[https://www.davidson.fr](https://github.com/selflow/selflow)"><img src="https://selflow.github.io/selflow/img/favicon.ico" alt="Davidson Logo" /></a>
   Open Source developper, currently working on <a href="https://github.com/selflow/selflow">Selflow</a>
 </p>
-<!-- Dev Card -->
-<a href="https://app.daily.dev/Anthony_Jhoiro">
-  <img 
-       src="https://api.daily.dev/devcards/47f63a7db2334f18ab2c07bbab219076.png?r=g3o" 
-       height="350" 
-       align="right"
-       alt="Anthony Quéré's Dev Card"/>
-</a>
 
 ## Public contributions
 
