@@ -21,7 +21,7 @@
 <!-- Job -->
 <p>
   <a href="https://sfeir.dev"><img src="https://sfeir.com/img/favicon.ico" alt="SFEIR" /></a>
-  Software engineer, currently working ad <a href="https://github.com/selflow/selflow">SFEIR Lille</a>
+  Software engineer, currently working ad <a href="https://sfeir.com">SFEIR Lille</a>
 </p>
 
 ## Last articles
