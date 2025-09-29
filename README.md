@@ -20,9 +20,12 @@
 
 <!-- Job -->
 <p>
-  <a href="[https://www.davidson.fr](https://github.com/selflow/selflow)"><img src="https://selflow.github.io/selflow/img/favicon.ico" alt="Davidson Logo" /></a>
-  Open Source developper, currently working on <a href="https://github.com/selflow/selflow">Selflow</a>
+  <a href="https://sfeir.dev"><img src="https://sfeir.com/img/favicon.ico" alt="SFEIR" /></a>
+  Software engineer, currently working ad <a href="https://github.com/selflow/selflow">SFEIR Lille</a>
 </p>
+
+## Last articles
+- [Tanstack Start Overview](https://www.sfeir.dev/front/tanstack-start-overview/)
 
 ## Public contributions
 
