@@ -1,22 +1,15 @@
 ![Hi there 👋 I'm Anthony !](./github-banner.png)
 
 
-<!-- TWITTER -->
-<a href="https://twitter.com/AnthonyJhoiro">
+<!-- X -->
+<a href="https://x.com/AnthonyJhoiro">
   <img
-    src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
-    alt="Twitter"
+    src="https://img.shields.io/twitter/follow/omBratteng?label=AnthonyJhoiro&logo=x&style=flat-square&color=1da1f2&logoColor=ffffff"
+    alt=""
   />
 </a>
 
-<!-- Selflow Version -->
-
-<a href="https://github.com/selflow/selflow">
-  <img
-    src="https://img.shields.io/github/package-json/v/selflow/selflow/main?style=flat-square&color=00ADD8&logoColor=ffffff&label=Selflow%20Version&logo=go"
-    alt="Selflow Version"
-  />
-</a>
+Take a look at my blog ! [anthonyquere.fr](https://anthonyquere.fr) ✨
 
 <!-- Job -->
 <p>
@@ -25,6 +18,7 @@
 </p>
 
 ## Last articles
+- [Opencode Overview](https://www.sfeir.dev/ia/opencode/)
 - [Tanstack Start Overview](https://www.sfeir.dev/front/tanstack-start-overview/)
 
 ## Public contributions
